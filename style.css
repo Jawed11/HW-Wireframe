@@ -1,0 +1,32 @@
+body{
+    background-color: #777777;
+    color: #777777;
+    width: 960px;
+    font: 18px;
+    
+    padding-left: 140px;
+}
+
+div {
+    
+}
+.header{ background-color: #ebebeb;
+    
+
+   }
+.nav{ background-color: #ebebeb;
+
+}
+.aside{ background-color: #ebebeb;
+
+}
+.section{ background-color: #ebebeb;
+
+}
+.article{ background-color: #777777;
+    color: #ebebeb;
+
+}
+.footer { background-color: #ebebeb;
+
+}
