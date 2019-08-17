@@ -1,0 +1,44 @@
+body{
+    background-color: #777777;
+    color: #777777;
+    width: 960px;
+    font: 18px;
+    
+    padding-left: 140px;
+}
+
+div {
+
+     background-color: #777777;
+  width: 300px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+}
+    
+    .header{ background-color: #ebebeb;
+        
+
+    }
+    .nav{ background-color: #ebebeb;
+
+    }
+    .aside{ background-color: #ebebeb;
+
+    }
+    .section{ background-color: #ebebeb;
+
+    }
+    
+
+    .article{ background-color: #777777;
+        color: #ebebeb;
+        
+    }
+        
+    
+    .footer{ background-color: #ebebeb;
+
+    }
+
+   
